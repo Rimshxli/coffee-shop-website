@@ -1,0 +1,66 @@
+#navbar {
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 50px;
+    font-style: initial;
+    background-color: bisque;
+}
+
+#navbar a{
+    text-decoration: double;
+    color:maroon;
+    font-size: 40px;
+}
+
+#navbar a:hover{
+    color: chocolate;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+h1 {
+    color: brown;
+    font-size: 40px;
+    font-style: normal;
+}
+
+
+h2{
+    color: brown;
+    font-size: 30px;
+}
+
+p{
+    color:chocolate;
+    font-style: normal;
+    font-size: 25px;
+}
+
+body a{
+    justify-content: space-between;
+    font-size: 20px;
+    color: blue;
+    
+}
+
+body{
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
